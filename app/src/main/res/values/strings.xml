@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidLab3</string>
+    <string name="height_textview">Рост</string>
+    <string name="weight_textview">Вес</string>
+    <string name="height_measure">м</string>
+    <string name="weight_measure">кг</string>
+    <string name="dog_name">Собака</string>
+    <string name="cat_name">Кошка</string>
+    <string name="elephant_name">Слон</string>
+    <string name="giraffe_name">Жираф</string>
+    <string name="capybara_name">Капибара</string>
+    <string name="frog_name">Лягушка</string>
+    <string name="quokka_name">Квокка</string>
+    <string name="deer_name">Олень</string>
+    <string name="chicken_name">Курица</string>
+    <string name="pigeon_name">Голубь</string>
+    <string name="cow_name">Корова</string>
+    <string name="horse_name">Лошадь</string>
+    <string name="bunny_name">Кролик</string>
+    <string name="bobr_name">Бобр</string>
+    <string name="animals_catalog">Каталог животных</string>
+</resources>
